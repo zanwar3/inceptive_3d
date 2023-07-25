@@ -1,0 +1,44 @@
+
+@font-face {
+  font-family: "Neue Plak";
+  src: url(../../../src/assets/fonts/Neue_Plak_Regular.ttf);
+}
+
+@font-face {
+  font-family: "Neue Plak Regular";
+  src: url(../../../src/assets/fonts/Neue_Plak_Regular.ttf);
+}
+
+@font-face {
+  font-family: "Neue Plak SemiBold";
+  src: url(../../../src/assets/fonts/Neue_Plak_SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Neue Plak Bold";
+  src: url(../../../src/assets/fonts/Neue_Plak_Bold.ttf);
+}
+
+/* Primary Color */
+body,
+html {
+  line-height: 1;
+  height: 100%;
+  font-family: "Neue Plak Regular" !important;
+}
+body {
+  font-size: 14px;
+  color: #494848;
+  font-family: "Neue Plak Regular";
+  -webkit-font-smoothing: antialiased;
+}
+a:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 300px) {
+  .container {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}

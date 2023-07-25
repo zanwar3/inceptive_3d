@@ -1,0 +1,4315 @@
+[
+  {
+    "id": 1,
+    "display": ["BANNER", "HIGHLIGHTS"],
+    "name": "Bored Ape Yacht Club",
+    "banner_name": "BAYC",
+    "tags": "BAYC",
+    "character": "bayc",
+    "owner": "YugaLabs",
+    "slug": "boredapeyachtclub",
+    "contract_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "image": "/images/BAYC/BAYC.jpg",
+    "desktop_banner": "/images/BAYC/BAYC.jpg",
+    "sub_desktop_banner": "/images/BAYC/BAYC.jpg",
+    "mobile_banner": "/images/BAYC/BAYC.jpg",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "website": "http://www.boredapeyachtclub.com/",
+        "twitter": "https://www.twitter.com/BoredApeYC",
+        "discord": "https://discord.gg/3P5K3dzgdB"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/boredapeyachtclub",
+        "looksrare": "https://looksrare.org/collections/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D?queryID=b9dfc8b039c57d88d78dd03e511255e6",
+        "geniexyz": "https://www.genie.xyz/collection/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "gemxyz": "https://www.gem.xyz/collection/boredapeyachtclub/"
+      },
+      "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+      "items": "9,998",
+      "created": "Apr 2021",
+      "creator_fee": "2.5%",
+      "chain": "Ethereum",
+      "total_volume": "695,049 ETH",
+      "floor_price": "68.999 WETH",
+      "best_offer": "64.3401 WETH",
+      "listed": "7%",
+      "owners": "6,420",
+      "unique_owners": "64%"
+    },
+    "nfts": [
+      {
+        "name": "Bored Ape Yacht Club",
+        "title": "3031",
+        "image": "https://img.seadn.io/files/995ea7e9ba2e1313b2483e624d656644.png?fit=max&w=1000",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1671197179830.gltf",
+        "character": "bayc",
+        "3d_print_character": "Ape_3DPrint",
+        "metadata": [
+          {
+            "Background": "Aquamarine",
+            "Clothes": "Tuxedo Tee",
+            "Eyes": "Sleepy",
+            "Fur": "Black",
+            "Hat": "Army Hat",
+            "Mouth": "Bored"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95f6807e1.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d9593adae0.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d957cce796.png"
+                },
+
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d932c9b3d6.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95384b44a.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95606df75.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "GM Tea",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300759.svg"
+                },
+                {
+                  "title": "GM Coffee",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300746.svg"
+                },
+
+                {
+                  "title": "GM Cereal",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300744.svg"
+                },
+                {
+                  "title": "Can",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300748.svg"
+                },
+                {
+                  "title": "Beer",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300727.svg"
+                },
+
+                {
+                  "title": "Salute",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300758.svg"
+                },
+
+                {
+                  "title": "Martiny",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300750.svg"
+                },
+                {
+                  "title": "Pipe",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300751.svg"
+                },
+                {
+                  "title": "Think",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300760.svg"
+                },
+                {
+                  "title": "Weed",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911300762.svg"
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://img.seadn.io/files/995ea7e9ba2e1313b2483e624d656644.png?fit=max&w=1000"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "boredapeyachtclub.png",
+              "collection": [
+                {
+                  "name": "3D RENDER EINSTEIN MONKEY",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Bored Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Bored Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Bored Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Bored Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916109.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916131.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916122.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639df0ac1ba1d.png"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671712626966.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671712626981.svg"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "display": ["BANNER", "HIGHLIGHTS"],
+    "name": "Crypto Punks",
+    "banner_name": "CryptoPunks",
+    "tags": "CryptoPunks",
+    "character": "CryptoPunks",
+    "owner": "C352B5",
+    "slug": "cryptopunks",
+    "contract_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "image": "images/Azuki/00.png",
+    "desktop_banner": "images/Azuki/00.png",
+    "sub_desktop_banner": "images/Azuki/00.png",
+    "mobile_banner": "images/Azuki/00.png",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+        "website": "https://www.larvalabs.com/cryptopunks",
+        "twitter": "https://twitter.com/larvalabs",
+        "discord": "https://discord.com/invite/tQp4pSE"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/cryptopunks",
+        "looksrare": "",
+        "geniexyz": "",
+        "gemxyz": ""
+      },
+      "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
+      "items": "9,998",
+      "created": "Jun 2017",
+      "creator_fee": "0%",
+      "chain": "Ethereum",
+      "total_volume": "1,075,765 ETH",
+      "floor_price": "--",
+      "best_offer": "--",
+      "listed": "7%",
+      "owners": "3,660",
+      "unique_owners": "37%"
+    },
+    "nfts": [
+      {
+        "name": "Crypto Punks",
+        "title": "2172",
+        "image": "https://storage.googleapis.com/ishro/uploads/63a1c661d2c86.svg",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1671625070056.gltf",
+        "character": "CryptoPunk",
+        "3d_print_character": "CryptoPunk_3DPrint",
+        "metadata": [
+          {
+            "Background": "Aquamarine",
+            "Clothes": "Tuxedo Tee",
+            "Eyes": "Sleepy",
+            "Fur": "Black",
+            "Hat": "Army Hat",
+            "Mouth": "Bored"
+          }
+        ],
+
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95f6807e1.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d9593adae0.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d957cce796.png"
+                },
+
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d932c9b3d6.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95384b44a.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95606df75.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "Coffee Cup",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a3ff46beaae.svg"
+                },
+                {
+                  "title": "Coffee Mug",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a3fff7b84eb.svg"
+                },
+                {
+                  "title": "Food",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a4002159c59.svg"
+                },
+                {
+                  "title": "Gun",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a4007907e2d.svg"
+                },
+                {
+                  "title": "Phone",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a4008fec853.svg"
+                },
+
+                {
+                  "title": "Serum",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a400a82dd1b.svg"
+                },
+                {
+                  "title": "Tea",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a400bb2f743.svg"
+                },
+                {
+                  "title": "World Cup",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a400d21fc3f.svg"
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a1c661d2c86.svg"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1671873883560.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "cryptopunks.png",
+              "collection": [
+                {
+                  "name": "red Crypto Punks",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Crypto Punks",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Crypto Punks",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Crypto Punks",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Crypto Punks",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916133.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/inceptivestudio/1671783916135.svg"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916138.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916137.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671712626979.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671717977094.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671717977104.svg"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "display": ["BANNER", "PROJECTS"],
+    "banner_name": "MAYC",
+    "name": "Mutant Ape Yacht Club",
+    "tags": "MAYC",
+    "character": "mayc",
+    "owner": "YugaLabs",
+    "slug": "mutant-ape-yacht-club",
+    "contract_address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "image": "/images/MAYC/MAYC.jpg",
+    "desktop_banner": "/images/MAYC/MAYC.jpg",
+    "sub_desktop_banner": "/images/MAYC/MAYC.jpg",
+    "mobile_banner": "/images/MAYC/MAYC.jpg",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+        "website": "http://www.boredapeyachtclub.com/",
+        "twitter": "https://www.twitter.com/BoredApeYC",
+        "discord": "https://discord.gg/3P5K3dzgdB"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/mayc-19"
+      },
+      "description": "Welcome to the home of MAYC on OpenSea. Discover the best items in this collection.",
+      "items": "19,428",
+      "created": "Aug 2021",
+      "creator_fee": "2.5%",
+      "chain": "Ethereum",
+      "total_volume": "469,942 ETH",
+      "floor_price": "14.42 ETH",
+      "best_offer": "13.99 WETH",
+      "listed": "4%",
+      "owners": "12,909",
+      "unique_owners": "66%"
+    },
+    "nfts": [
+      {
+        "id": "1",
+        "name": "Mutant Ape Yacht Club",
+        "title": "15232",
+        "image": "https://img.seadn.io/files/acda3401c1b46b6ff65f756483cb9c27.png?fit=max&w=1000",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1672146207870.gltf",
+        "character": "mayc",
+        "3d_print_character": "Mayc_3DPrint",
+        "metadata": [
+          {
+            "Background": "M1 Gray",
+            "Clothes": "M1 Lumberjack Shirt",
+            "Eyes": "M1 Blindfold",
+            "Fur": "M1 Dark Brown",
+            "Hat": "M1 Bayc Flipped Brim",
+            "Mouth": "M1 Bored"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95f6807e1.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v2",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d9593adae0.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v1",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d957cce796.png"
+                },
+
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d932c9b3d6.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95384b44a.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95606df75.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://img.seadn.io/files/acda3401c1b46b6ff65f756483cb9c27.png?fit=max&w=1000"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1671873670014.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "mayc.png",
+              "collection": [
+                {
+                  "name": "red Mutant Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Mutant Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Mutant Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Mutant Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Mutant Ape Yacht Club",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": ""
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671865143390.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671865143401.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671865143400.svg"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "display": ["BANNER", "PROJECTS"],
+    "name": "The Long Lost",
+    "banner_name": "The Long Lost",
+    "tags": "LONG_LOST",
+    "character": "longLost",
+    "owner": "TheLongLost",
+    "slug": "the-long-lost",
+    "contract_address": "0x1347a97789cd3aa0b11433e8117f55ab640a0451",
+    "image": "/images/Azuki/00.png",
+    "desktop_banner": "/images/Azuki/00.png",
+    "sub_desktop_banner": "/images/Azuki/00.png",
+    "mobile_banner": "/images/Azuki/00.png",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0x1347a97789cd3aa0b11433e8117f55ab640a0451",
+        "website": "https://thelonglost.io/",
+        "twitter": "https://www.twitter.com/LongLostNFT",
+        "discord": "https://discord.gg/longlost"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/the-long-lost",
+        "looksrare": "https://looksrare.org/collections/0x637B4b8cEa9f936b2604cc96bFe599f087493171?queryID=5d6e0f8b10e80db26ef753aba09de2ae",
+        "geniexyz": "https://www.genie.xyz/collection/0x1347a97789cd3aa0b11433e8117f55ab640a0451",
+        "gemxyz": "https://www.gem.xyz/collection/the-long-lost/"
+      },
+      "description": "Long Lost is a 10,000 piece genesis collection from the '5th Dimension Collective.'",
+      "items": "9,999",
+      "created": "Feb 2022",
+      "creator_fee": "7%",
+      "chain": "Ethereum",
+      "total_volume": "2,947 ETH",
+      "floor_price": "0.0344 ETH",
+      "best_offer": "0.0285 WETH",
+      "listed": "3%",
+      "owners": "4,097",
+      "unique_owners": "41%"
+    },
+    "nfts": [
+      {
+        "id": "1",
+        "name": "The Long Lost",
+        "title": "1915",
+        "image": "https://storage.googleapis.com/inceptivestudio/1671796910990.svg",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1671796361120.gltf",
+        "character": "longLost",
+        "3d_print_character": "LongLost_3DPrint",
+        "metadata": [
+          {
+            "Background": "Grey BG",
+            "Clothes": "Blank White Tee",
+            "Eyes": "OG Eyes",
+            "Headwear": "Football Helmet",
+            "Skeleton": "Silver Skele"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95f6807e1.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d9593adae0.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d957cce796.png"
+                },
+
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d932c9b3d6.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95384b44a.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95606df75.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "Beer can",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707972.svg"
+                },
+                {
+                  "title": "Beer",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707974.svg"
+                },
+                {
+                  "title": "Gun",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707975.svg"
+                },
+                {
+                  "title": "Lab",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707976.svg"
+                },
+
+                {
+                  "title": "Money",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707977.svg"
+                },
+
+                {
+                  "title": "Tea",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707978.svg"
+                },
+
+                {
+                  "title": "Weed",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911707981.svg"
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671796910990.svg"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1671873669967.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "long-lost.png",
+              "collection": [
+                {
+                  "name": "red Long Lost NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Long Lost NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Long Lost NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Long Lost NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Long Lost NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": ""
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671801481715.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671801481724.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671801481725.svg"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "display": ["BANNER", "PROJECTS"],
+    "name": "Renga",
+    "tags": "RENGA",
+    "banner_name": "Renga",
+    "character": "renga",
+    "owner": "RENGA-inc",
+    "slug": "renga",
+    "contract_address": "0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91",
+    "image": "/images/Renga/test.jpeg",
+    "desktop_banner": "/images/Renga/test.jpeg",
+    "sub_desktop_banner": "/images/Renga/test.jpeg",
+    "mobile_banner": "/images/Renga/test.jpeg",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91",
+        "website": "https://renga.app/",
+        "twitter": "https://www.twitter.com/RENGA_inc",
+        "discord": "https://discord.gg/renga"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/renga",
+        "looksrare": "https://looksrare.org/collections/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91?queryID=488704879a989c013993251038cf789d",
+        "geniexyz": "https://www.genie.xyz/collection/0x394e3d3044fc89fcdd966d3cb35ac0b32b0cda91",
+        "gemxyz": "https://www.gem.xyz/collection/renga/"
+      },
+      "description": "A handcrafted collection of 10,000 characters developed by artist DirtyRobot. Each with their own identity to be discovered within the wider stories of RENGA. In its purest form, RENGA is the art of storytelling.",
+      "items": "8,235",
+      "created": "Sep 2022",
+      "creator_fee": "5%",
+      "chain": "Ethereum",
+      "total_volume": "17,429 ETH",
+      "floor_price": "1.05 ETH",
+      "best_offer": "1.05 ETH",
+      "listed": "12%",
+      "owners": "3,059",
+      "unique_owners": "37%"
+    },
+    "nfts": [
+      {
+        "title": "7396",
+        "image": "https://storage.googleapis.com/inceptivestudio/1671885354837.png",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1672049781703.gltf",
+        "character": "renga",
+        "3d_print_character": "AstroBoy_3DPrint",
+        "metadata": [
+          {
+            "Archetype": "Samurai",
+            "Armour": "Dead Moon Coral",
+            "Background": "Black",
+            "Eyes": "Blackout",
+            "Head": "Shadow",
+            "Helmet": "Crescent Moon Coral",
+            "Mask": "Dead Men Rose Gold",
+            "Mouth": "Shadow",
+            "Nose": "Shadow"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95f6807e1.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v2",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d9593adae0.png"
+                },
+                {
+                  "actionName": "Male Standing Pose v1",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d957cce796.png"
+                },
+
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d932c9b3d6.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95384b44a.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639d95606df75.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671885354837.png"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1671884622326.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "renga.png",
+              "collection": [
+                {
+                  "name": "red Renga NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Renga NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Renga NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Renga NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Renga NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916109.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916131.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916122.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672143401782.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672213354479.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "display": ["BANNER", "PROJECTS"],
+    "name": "Degen Toonz",
+    "banner_name": "Degen Toonz",
+    "tags": "DEGENTOONS",
+    "character": "degen",
+    "owner": "TOONZDEPLOYER",
+    "slug": "degentoonz-collection",
+    "contract_address": "0x19b86299c21505cdf59ce63740b240a9c822b5e4",
+    "image": "/images/Azuki/05.png",
+    "desktop_banner": "/images/Azuki/05.png",
+    "sub_desktop_banner": "/images/Azuki/05.png",
+    "mobile_banner": "/images/Azuki/05.png",
+    "details": {
+      "social": {
+        "etherscan": "https://etherscan.io/address/0x19b86299c21505cdf59ce63740b240a9c822b5e4",
+        "website": "https://degentoonz.io/",
+        "twitter": "https://www.twitter.com/DegenToonz",
+        "discord": "https://discord.gg/degentoonz"
+      },
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/degentoonz-collection",
+        "looksrare": "https://looksrare.org/collections/0x277b1Ea2F85D9bA0Baa0629243Bd24c19B24bB3d?queryID=144536e4787a34470d377513a53d7831",
+        "geniexyz": "https://www.genie.xyz/collection/0x19b86299c21505cdf59ce63740b240a9c822b5e4",
+        "gemxyz": "https://www.gem.xyz/collection/degentoonz-collection/"
+      },
+      "description": "8888 degenerate TOONZ that double as a membership to an exclusive metaverse community with the power to build it from the ground up.",
+      "items": "8,888",
+      "created": "Feb 2022",
+      "creator_fee": "6%",
+      "chain": "Ethereum",
+      "total_volume": "18,336 ETH",
+      "floor_price": "18,336 ETH",
+      "best_offer": "0.6088 WETH",
+      "listed": "7%",
+      "owners": "4,011",
+      "unique_owners": "45%"
+    },
+    "nfts": [
+      {
+        "id": "1",
+        "name": "Degen Toonz",
+        "title": "1314",
+        "image": "https://img.seadn.io/files/1072d041ec0bdd7ca7e4854315677638.png?fit=max&w=1000",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1672058170744.gltf",
+        "character": "degen",
+        "3d_print_character": "DegenToons_3DPrint",
+        "metadata": [
+          {
+            "Background": "Navy Blue",
+            "Bag": "Backpack",
+            "Base": "White",
+            "Chain": "None",
+            "Clothing": "GM GN Hoodie",
+            "Eyes": "Lightning Bolt",
+            "Head Accessories": "Black Headphones",
+            "Mouth": "Classic",
+            "Piercings": "Trio",
+            "Tattoos": "Degen"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle Variation",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Bouncing Fight Idle",
+                  "image": "https://storage.googleapis.com/ishro/uploads/63a43d1d62ab1.gif"
+                },
+                {
+                  "actionName": "Talking",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708805508.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970441.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970438.gif"
+                },
+                {
+                  "actionName": "Swing Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671708970425.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096317.gif"
+                },
+                {
+                  "actionName": "Silly Dancing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671709096314.gif"
+                },
+                {
+                  "actionName": "Entry",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612413.gif"
+                },
+                {
+                  "actionName": "Dance v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256606.gif"
+                },
+                {
+                  "actionName": "Dance v3",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415283.gif"
+                },
+                {
+                  "actionName": "Dance v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710256514.gif"
+                },
+                {
+                  "actionName": "Boxing v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612402.gif"
+                },
+                {
+                  "actionName": "Boxing v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612299.gif"
+                },
+                {
+                  "actionName": "Dance v4",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710415272.gif"
+                },
+                {
+                  "actionName": "Drunk Idle Variation",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671710612410.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "T-Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302201.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v2",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778302193.png"
+                },
+                {
+                  "actionName": "Male Talking Pose v1",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372210.png"
+                },
+                {
+                  "actionName": "Male Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778372207.png"
+                },
+                {
+                  "actionName": "Male Dance Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453319.png"
+                },
+                {
+                  "actionName": "Male Dynamic Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453330.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778453332.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "Brush",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672127086177.svg"
+                },
+                {
+                  "title": "Coffee",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672127344322.svg"
+                },
+                {
+                  "title": "Tea",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672127371456.svg"
+                },
+                {
+                  "title": "Weed",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672127410328.svg"
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://img.seadn.io/files/1072d041ec0bdd7ca7e4854315677638.png?fit=max&w=1000"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "https://storage.googleapis.com/inceptivestudio/1672143401771.svg",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "degen-toonz.png",
+              "collection": [
+                {
+                  "name": "red degen toonz NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green degen toonz NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow degen toonz NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink degen toonz NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue degen toonz NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916109.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916131.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916122.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672143401784.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672213354475.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "display": ["BANNER", "HIGHLIGHTS"],
+    "name": "Koda",
+    "banner_name": "Koda",
+    "tags": "Otherside : Koda",
+    "character": "koda",
+    "owner": "",
+    "slug": "otherdeed",
+    "contract_address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+    "image": "/images/Koda/00.png",
+    "desktop_banner": "/images/Koda/00.png",
+    "sub_desktop_banner": "/images/Koda/00.png",
+    "mobile_banner": "/images/Koda/00.png",
+    "details": {
+      "social": {},
+      "buy_info": {
+        "opensea": "https://opensea.io/collection/otherdeed"
+      },
+      "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
+      "items": "99,999",
+      "created": "May 2022",
+      "creator_fee": "5%",
+      "chain": "Ethereum",
+      "total_volume": "361,026 ETH",
+      "floor_price": "1.24 ETH",
+      "best_offer": "1.1508 WETH",
+      "listed": "4%",
+      "owners": "1.1508 WETH",
+      "unique_owners": "1.1508 WETH"
+    },
+    "nfts": [
+      {
+        "id": "1",
+        "name": "Koda",
+        "title": "86748",
+        "image": "https://storage.googleapis.com/inceptivestudio/1672912680351.svg",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1668853671215.gltf",
+        "character": "blueKoda",
+        "3d_print_character": "BlueKoda_3DPrint",
+        "metadata": [
+          {
+            "Artifact": "No",
+            "Category": "Psychedelic",
+            "Eastern Resource": "Runa",
+            "Environment": "Acid",
+            "Koda - Clothing": "Jaded Gnaw Armor",
+            "Koda - Core": "Storm Tracks",
+            "Koda - Eyes": "Over It",
+            "Koda - Head": "Classic",
+            "Koda - Mega?": "No",
+            "Koda - Weapon": "Studded Club",
+            "Koda ID": "4246",
+            "Koda?": "Yes",
+            "Northern Resource": "Galactica",
+            "Sediment": "Studded Club",
+            "Western Resource": "Kinsoul"
+          }
+        ],
+
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Convo Listening",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228710.gif"
+                },
+                {
+                  "actionName": "Stand Relaxed",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228711.gif"
+                },
+                {
+                  "actionName": "Walk Cheerful",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952460.gif"
+                },
+                {
+                  "actionName": "Assassin Combo",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228620.gif"
+                },
+                {
+                  "actionName": "Walk Listen Music",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952469.gif"
+                },
+                {
+                  "actionName": "Walk Scared Look Forward",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952470.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "Dynamic Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532130.png"
+                },
+                {
+                  "actionName": "Karate Kick Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532133.png"
+                },
+                {
+                  "actionName": "Locomotion pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532136.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532138.png"
+                },
+
+                {
+                  "actionName": "T-Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532200.png"
+                },
+                {
+                  "actionName": "Talking Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532199.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Convo Listening",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228710.gif"
+                },
+                {
+                  "actionName": "Stand Relaxed",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228711.gif"
+                },
+                {
+                  "actionName": "Walk Cheerful",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952460.gif"
+                },
+                {
+                  "actionName": "Assassin Combo",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228620.gif"
+                },
+                {
+                  "actionName": "Walk Listen Music",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952469.gif"
+                },
+                {
+                  "actionName": "Walk Scared Look Forward",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952470.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "Dynamic Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532130.png"
+                },
+                {
+                  "actionName": "Karate Kick Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532133.png"
+                },
+                {
+                  "actionName": "Locomotion pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532136.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532138.png"
+                },
+
+                {
+                  "actionName": "T-Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532200.png"
+                },
+                {
+                  "actionName": "Talking Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532199.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "Peanut",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911974663.svg"
+                },
+                {
+                  "title": "Tea",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1672911974664.svg"
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/6390745079c74.png"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "koda.png",
+              "collection": [
+                {
+                  "name": "red Koda NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "green Koda NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "name": "yellow Koda NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "name": "pink Koda NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "name": "blue Koda NFT",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916109.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916131.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916122.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": ""
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": ""
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "name": "Koda",
+        "title": "2431567",
+        "image": "https://storage.googleapis.com/ishro/uploads/6390787b57d7d.png",
+        "file_url": "https://storage.googleapis.com/inceptivestudio/1669703138353.gltf",
+        "character": "koda",
+        "3d_print_character": "Koda_3DPrint",
+        "metadata": [
+          {
+            "Artifact": "No",
+            "Category": "Psychedelic",
+            "Eastern Resource": "Runa",
+            "Environment": "Acid",
+            "Koda - Clothing": "Jaded Gnaw Armor",
+            "Koda - Core": "Storm Tracks",
+            "Koda - Eyes": "Over It",
+            "Koda - Head": "Classic",
+            "Koda - Mega?": "No",
+            "Koda - Weapon": "Studded Club",
+            "Koda ID": "4246",
+            "Koda?": "Yes",
+            "Northern Resource": "Galactica",
+            "Sediment": "Studded Club",
+            "Western Resource": "Kinsoul"
+          }
+        ],
+        "menues": {
+          "animations": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Convo Listening",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228710.gif"
+                },
+                {
+                  "actionName": "Stand Relaxed",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228711.gif"
+                },
+                {
+                  "actionName": "Walk Cheerful",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952460.gif"
+                },
+                {
+                  "actionName": "Assassin Combo",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228620.gif"
+                },
+                {
+                  "actionName": "Walk Listen Music",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952469.gif"
+                },
+                {
+                  "actionName": "Walk Scared Look Forward",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952470.gif"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "still_pose": [
+            {
+              "label": "Still Pose",
+              "collection": [
+                {
+                  "actionName": "Dynamic Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532130.png"
+                },
+                {
+                  "actionName": "Karate Kick Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532133.png"
+                },
+                {
+                  "actionName": "Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532136.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532138.png"
+                },
+
+                {
+                  "actionName": "T-Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532200.png"
+                },
+                {
+                  "actionName": "Talking Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532199.png"
+                }
+              ]
+            },
+            {
+              "label": "Environment",
+              "collection": [
+                {
+                  "name": "blank",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178910592.png"
+                },
+                {
+                  "name": "Bedroom",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671178968562.png"
+                },
+                {
+                  "name": "Sunrise",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671179051685.png"
+                }
+              ]
+            }
+          ],
+          "ar": [
+            {
+              "label": "Animations",
+              "collection": [
+                {
+                  "actionName": "Convo Listening",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228710.gif"
+                },
+                {
+                  "actionName": "Stand Relaxed",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228711.gif"
+                },
+                {
+                  "actionName": "Walk Cheerful",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952460.gif"
+                },
+                {
+                  "actionName": "Assassin Combo",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671777228620.gif"
+                },
+                {
+                  "actionName": "Walk Listen Music",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952469.gif"
+                },
+                {
+                  "actionName": "Walk Scared Look Forward",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671776952470.gif"
+                }
+              ]
+            },
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/1093731172027114/"
+                }
+              ]
+            }
+          ],
+
+          "3d_print": [
+            {
+              "label": "Pose",
+              "collection": [
+                {
+                  "actionName": "Dynamic Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532130.png"
+                },
+                {
+                  "actionName": "Karate Kick Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532133.png"
+                },
+                {
+                  "actionName": "Locomotion Pose",
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532136.png"
+                },
+                {
+                  "actionName": "Male Laying Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532138.png"
+                },
+
+                {
+                  "actionName": "T-Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532200.png"
+                },
+                {
+                  "actionName": "Talking Pose",
+
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671778532199.png"
+                }
+              ]
+            },
+            { "label": "Base", "collection": [] },
+            {
+              "label": "3D Print",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c90478b89e.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9078a8f81.svg"
+                },
+
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c9088472c1.svg"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c909981725.svg"
+                }
+              ]
+            }
+          ],
+
+          "face_filter": [
+            {
+              "label": "Platform",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53d64f798.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c53ef0ffbe.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5405604f9.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c5416a7122.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c54284faa7.svg",
+                  "link": "https://www.instagram.com/ar/542026397848508/"
+                }
+              ]
+            },
+            { "label": "Others", "collection": [] }
+          ],
+          "meme": [
+            {
+              "label": "Memes",
+              "collection": [
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                },
+
+                {
+                  "title": "",
+                  "link": ""
+                }
+              ]
+            }
+          ],
+          "2d": [
+            {
+              "label": "High Resolution",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/6390787b57d7d.png"
+                }
+              ]
+            },
+            {
+              "label": "Backgrounds",
+              "noBackground": "",
+              "collection": [
+                {
+                  "color": "blank",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c221c32999.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc03aeb5d2.svg"
+                },
+                {
+                  "color": "colorPicker",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c223301da0.png",
+                  "link": "https://storage.googleapis.com/inceptivestudio/1671871738839.svg"
+                },
+                {
+                  "color": "#E0FEA0",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2245ba78e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6ab0750d.svg"
+                },
+                {
+                  "color": "#FED7A5",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2258c27c2.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc6e337d4f.svg"
+                },
+                {
+                  "color": "#FDAFAC",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2269b960e.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7249fa5f.svg"
+                },
+                {
+                  "color": "#A0C4FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c227e6aad7.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc75f77fb2.png"
+                },
+                {
+                  "color": "#FFA0B7",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c22df1487f.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc770c35e6.png"
+                },
+                {
+                  "color": "#FDA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2301cf0f4.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7ce38ba8.png"
+                },
+                {
+                  "color": "#CAA0FF",
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c2313be40b.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/639dc7decb2c0.png"
+                }
+              ]
+            },
+            {
+              "label": "AI",
+              "mainImage": "koda.png",
+              "collection": [
+                {
+                  "number": 1,
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713523336.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "number": 2,
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713557324.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1ccbb9d992.svg"
+                },
+                {
+                  "number": 3,
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671713572876.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+                {
+                  "number": 4,
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715075712.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                },
+
+                {
+                  "number": 5,
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671715186406.png",
+                  "link": "https://storage.googleapis.com/ishro/uploads/63a1cca0575d3.svg"
+                }
+              ]
+            }
+          ],
+          "Phygital": [
+            {
+              "label": "Clothing",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755660.png",
+                  "link": {
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916109.svg",
+                    "iconback": "https://storage.googleapis.com/ishro/uploads/63a031e3a29d6.svg",
+                    "iconfront": "https://storage.googleapis.com/ishro/uploads/63a16244cebd5.svg",
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a035ebf3af5.png"
+                  }
+                },
+                {
+                  "image": "https://storage.googleapis.com/inceptivestudio/1671867755661.png",
+                  "link": {
+                    "front": "https://storage.googleapis.com/ishro/uploads/63a02f7e3aee8.png",
+                    "iconback": "https://storage.googleapis.com/inceptivestudio/1671867964092.png",
+                    "iconfront": "https://storage.googleapis.com/inceptivestudio/1671867964093.png",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916131.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Mugs",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c916177bdb.svg",
+                  "link": {
+                    "front": "",
+                    "iconback": "",
+                    "iconfront": "",
+                    "back": "https://storage.googleapis.com/inceptivestudio/1671783916122.svg"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "Stickers",
+              "collection": [
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91c483228.svg",
+                  "link": ""
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91da9b1a5.svg",
+                  "link": ""
+                },
+                {
+                  "image": "https://storage.googleapis.com/ishro/uploads/639c91ebcbed6.svg",
+                  "link": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

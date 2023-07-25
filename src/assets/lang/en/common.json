@@ -1,0 +1,160 @@
+{
+  "header": {
+    "title": "Mazadee.com",
+    "myauctions": "My Auctions",
+    "auctions": "Auctions",
+    "marketplace": "Marketplace",
+    "calendar": "Calendar",
+    "arabic": "العربية",
+    "english": "English"
+  },
+  "footer": {
+    "categories": "Categories",
+    "watch": "Watch",
+    "perfume": "Perfume",
+    "vehicle": "Vehicle",
+    "wallet": "Wallet",
+    "shop": "Shop",
+
+    "quicklinks": "Quick Links",
+    "aboutus": "About Us",
+    "contactus": "Contact Us",
+    "faqs": "FAQs",
+    "auction": "Auction",
+    "marketplace": "Market Place",
+
+    "legal": "Legal",
+    "terms_of_use": "Terms of Use",
+    "selling": "Selling on Mazadee",
+    "privacy_policy": "Privacy Policy"
+  },
+  "auth": {
+    "signin": "Sign In",
+    "register": " Register",
+    "forgot_password": "Forgot password ?",
+    "login_google": "login with google",
+    "login_facebook": "login with facebook",
+    "login_email": "or login with email"
+  },
+  "subBanner": {
+    "about_button": "اعرف أكثر",
+    "about_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua consectetur adipiscing.",
+    "subscribe_title": "Subscribe For Get Updates",
+    "subscribe_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "subscribe_email": "Enter your Email....",
+    "subscribe_button": "Subscribe"
+  },
+  "auction": {
+    "categories": "Categories",
+    "more_live": "More from Live",
+    "current_bid": "Current Bid",
+    "closed_auction": "Closed Auction",
+    "hot_auction": "Hot Auction",
+    "hot_sale": "Hot Sale",
+    "top_auctioneers": "Top Auctioneers"
+  },
+  "user": {
+    "Show from live you Follow": "Show from live you Follow",
+    "Discover": "Discover"
+  },
+  "register": {
+    "step_01": "Step 01",
+    "step_03": "Step 03",
+    "step_02": "Step 02",
+    "step_04": "Step 04",
+    "step_01_message": "Create Profile",
+    "step_02_message": "Add Address",
+    "step_03_message": "Add Bank Details",
+    "step_04_message": "Add License",
+    "step_01_sub_message": "Create account so you can start shopping and save items",
+    "step_02_sub_message": "",
+    "step_03_sub_message": "",
+    "step_04_sub_message": "",
+    "message.congratulate": "Congratulations",
+    "message.success": "You have Successfully Completed your Registration",
+    "message.error": "Something went wrong",
+    "btn.back": "Back",
+    "btn.finish": "Finish",
+    "btn.next": "Next",
+    "add_emirates_id": " Add Emirates ID",
+    "add_license": "Add License",
+    "license_number": "License Number",
+    "license_source": "License Source",
+    "license_upload": "Upload License",
+    "label.front": "Front",
+    "label.back": "Back"
+  },
+  "validate": {
+    "email": "Invalid Email",
+    "required": "This field is required",
+    "dont_have_account": "Don't have an account yet?",
+    "already_have_account": "Already have an account?",
+    "select_one_file_atleast": "select at least 1 file",
+    "email_already_exist": "Email already exists",
+    "invalid_password_format": "Invalid Password Format"
+  },
+  "forgotPassword": {
+    "message": "If you've lost your password or wish to reset it, enter your Mobile number to get started.",
+    "password_length": "Mobile Number must be at least 10 characters"
+  },
+  "common": {
+    "email": "Email Address",
+    "password": "Password",
+    "forgot_password": "Forgot Password",
+    "confirm_password": "Confirm Password",
+    "full_name": "Full Name",
+    "agreement": "By clicking the button, you agree to the T&C's and Privacy Policy",
+    "privacy_policy": "Privacy Policy",
+    "t&c": "T&C's",
+    "and": " and ",
+    "see_all": "See All",
+    "submit": "Submit",
+    "verify": "Verify",
+    "mobile_number": "Mobile Number",
+    "country_code": "Country Code",
+    "area": "Area",
+    "country": "Country",
+    "city": "City",
+    "apartment": "Apartment, suite",
+    "building": "Building",
+    "street_address": "Street address",
+    "account_name": "Account Name",
+    "account_number": "Account Number",
+    "bank_name": "Bank Name",
+    "swift_code": "Swift Code",
+    "iban_no": "IBAN No",
+    "card_number": "Card Number",
+    "name_on_card": "Name on Card",
+    "expiry_date": "Expiry Date MM/YY",
+    "cvv": "CVV",
+    "top": "Top"
+  },
+  "user_profile": {
+    "high_light_auction_title": "Show from live you Follow",
+    "hot_auction_list_title": "Discover"
+  },
+  "password_validate": {
+    "min_length": "Password must be more than 8 characters",
+    "special_char": "Password must contain special characters.",
+    "number": "Password must contain numbers",
+    "capital": "Password must contain uppercase letters",
+    "match": "Password must match"
+  },
+  "not_found": {
+    "message": "The page you're looking for doesn't exist.",
+    "back_to_home": "Back to Main Page"
+  },
+  "common_links": {
+    "followup": "Follow up"
+  },
+  "marketplace": {
+    "all_products": "All Products",
+    "shops": "Shops",
+    "buy_now": "Buy now"
+  },
+  "product_details": {
+    "similar_item": "Similar Item",
+    "view_shop": "View Shop",
+    "contact_shop": "Contact Shop"
+  }
+}

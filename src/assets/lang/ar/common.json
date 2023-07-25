@@ -1,0 +1,166 @@
+{
+  "header": {
+    "title": "Mazadee.com",
+    "myauctions": "مزاداتي",
+    "auctions": "مزادات",
+    "marketplace": "المتجر",
+    "calendar": "التقويم",
+    "arabic": "Arabic",
+    "english": "English"
+  },
+  "footer": {
+    "categories": "التصنيفات",
+    "watch": "ساعة",
+    "perfume": "عطر",
+    "vehicle": "مركبة",
+    "wallet": "محفظة",
+    "shop": "متجر",
+
+    "quicklinks": "روابط سريعة",
+    "aboutus": "معلومات عنا",
+    "contactus": "اتصل بنا",
+    "faqs": "أسئلة وأجوبة",
+    "auction": "مزاد علني",
+    "marketplace": "سوق تجارية",
+
+    "legal": "قانوني",
+    "terms_of_use": "شروط الاستخدام",
+    "selling": "البيع على Mazadee",
+    "privacy_policy": "سياسة الخصوصية"
+  },
+  "auth": {
+    "signin": "تسجيل الدخول",
+    "register": "إنشاء حساب جديد",
+    "forgot_password": "نسيت كلمة المرور ؟",
+    "login_google": "GOOGLE تسجيل الدخول عبر",
+    "login_facebook": "FACEBOOK تسجيل الدخول عبر",
+    "login_email": "أو سجل الدخول بالبريد الإلكتروني",
+    "forgot_password.mobile_number": "Please fill the Mobile number",
+    "forgot_password.required_fields": "Please fill the required fields",
+    "forgot_password.not_match": "password confirmation does not match your new password"
+  },
+  "subBanner": {
+    "about_button": "اعرف أكثر",
+    "about_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua consectetur adipiscing.",
+    "subscribe_title": "اشترك للحصول على التحديثات",
+    "subscribe_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "subscribe_email": "ادخل عنوان البريد الألكتروني",
+    "subscribe_button": "أشترك"
+  },
+  "auction": {
+    "categories": "الأصناف",
+    "more_live": "المزيد من المزادات المباشرة",
+    "current_bid": "المزايدة الحالية : ",
+    "closed_auction": "مزاد مغلق",
+    "hot_auction": "المزاد الساخن",
+    "hot_sale": "عرض ساخن",
+    "top_auctioneers": "كبار بائعي المزادات"
+  },
+
+  "user": {
+    "Show from live you Follow": "Show from live you Follow",
+    "Discover": "Discover"
+  },
+  "register": {
+    "step_01": "خطوة 01",
+    "step_02": "خطوة 02",
+    "step_03": "خطوة 03",
+    "step_04": "خطوة 04",
+    "step_01_message": "إنشاء ملف تعريفك  شخصي",
+    "step_02_message": "إضافة عنوانك",
+    "step_03_message": "إضافة بيانات حسابك المصرفي",
+    "step_04_message": "إضافة شهاداتك",
+    "step_01_sub_message": "أنشئ حسابًا حتى تتمكن من بدء التسوق و حفظ العناصر",
+    "step_02_sub_message": "",
+    "step_03_sub_message": "",
+    "step_04_sub_message": "",
+
+    "message.congratulate": "تهانينا",
+    "message.success": "لقد أكملت عملية التسجيل بنجاح",
+    "message.error": "هناك خطأ ما",
+
+    "btn.back": "عودة",
+    "btn.finish": "إرسال",
+    "btn.next": "التالي",
+    "add_emirates_id": "إضافة الهوية الاماراتية",
+    "add_license": "إضافة ترخيص",
+    "license_number": "رقم الرخصة",
+    "license_source": "مصدر الترخيص",
+    "license_upload": "تحميل الرخصة",
+    "label.front": "الوجه الأمامي",
+    "label.back": "الوجه الخلفي"
+  },
+  "validate": {
+    "email": "بريد الكتروني غير صحيح",
+    "required": "هذا الحقل إجباري",
+    "dont_have_account": " ليس لديك حساب ؟ ",
+    "already_have_account": " لديك حساب مسبقا؟ ",
+    "validate.select_one_file_atleast": "اختر ملفًا واحدًا على الأقل",
+    "validate.email_already_exist": "البريد الالكتروني موجود مسبقا",
+    "validate.invalid_password_format": "صيغة كلمة السر غير صحيحة"
+  },
+  "forgotPassword": {
+    "message": "إذا فقدت كلمة المرور الخاصة بك أو كنت ترغب في إعادة تعيينها ، أدخل رقم هاتفك المحمول للبدء",
+    "password_length": "يجب ألا يقل رقم الجوال عن 10 ارقام"
+  },
+  "common": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "forgot_password": "تعيين كلمة مرور جديدة",
+    "full_name": "الإسم الكامل ",
+    "agreement": "بالنقر فوق الزر ، فإنك توافق على",
+    "privacy_policy": "سياسة الخصوصية",
+    "t&c": "الشروط والأحكام",
+    "and": " و ",
+    "see_all": "تصفح الكل",
+    "submit": "إرسال",
+    "verify": "تحقق",
+    "mobile_number": "رقم الهاتف المحمول",
+    "country_code": "مفتاح الدولة",
+    "area": "منطقة",
+    "country": "دولة",
+    "city": "مدينة",
+    "apartment": "شقة",
+    "building": "مبنى",
+    "street_address": "عنوان الشارع",
+    "account_name": "أسم الحساب",
+    "account_number": "رقم حساب",
+    "bank_name": "اسم البنك",
+    "swift_code": "Swift رمز",
+    "iban_no": "رقم IBAN",
+    "card_number": "رقم البطاقة",
+    "name_on_card": "الاسم على البطاقة",
+    "expiry_date": "تاريخ انتهاء الصلاحية MM / YY",
+    "cvv": "CVV",
+    "top": "للأعلى"
+  },
+  "user_profile": {
+    "high_light_auction_title": "عرض من البث المباشر الذي تتابعه",
+    "hot_auction_list_title": "اكتشف"
+  },
+  "password_validate": {
+    "min_length": "كلمة المرور يجب أن تتكون من أكثر من 8 أحرف",
+    "special_char": "يجب أن تحتوي كلمة المرور على رموز خاصة",
+    "number": "يجب أن تحتوي كلمة المرور على أرقام",
+    "capital": "يجب أن تحتوي كلمة المرور على أحرف كبيرة",
+    "match": "يجب أن تتطابق كلمة المرور"
+  },
+  "not_found": {
+    "message": "الصفحة التي تبحث عنها غير موجودة",
+    "back_to_home": "العودة إلى الصفحة الرئيسية"
+  },
+  "common_links": {
+    "followup": "تابعونا"
+  },
+  "marketplace": {
+    "all_products": "جميع المنتجات",
+    "shops": "محلات",
+    "buy_now": "اشتري الآن"
+  },
+  "product_details": {
+    "similar_item": "عنصر مماثل",
+    "view_shop": "عرض المحل",
+    "contact_shop": "اتصل بالمتجر"
+  }
+}
